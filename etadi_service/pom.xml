@@ -63,13 +63,12 @@
 			<artifactId>json</artifactId>
 		</dependency>
 		<!-- apache titles, jsp -->
-		<!--  
 		<dependency>
 			<groupId>org.apache.tomcat.embed</groupId>
 			<artifactId>tomcat-embed-jasper</artifactId>
 			<scope>provided</scope>
 		</dependency>
-		-->
+		
 		<dependency>
 			<groupId>org.apache.tiles</groupId>
 			<artifactId>tiles-jsp</artifactId>
